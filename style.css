@@ -1,0 +1,21 @@
+body {
+  height: 3000px;
+}
+
+.div-element {
+  background-color: black;
+  color: white;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+}
+
+.sidebar {
+  background-color: green;
+  color: white;
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 200px;
+  padding-right: 50px;
+}
